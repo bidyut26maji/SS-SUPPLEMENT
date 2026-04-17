@@ -10,3 +10,5 @@ Backend Server 2 : https://suplimentprojectserver2.onrender.com
 
 
 Admin Page : https://ss-supplement-website-wxfa.vercel.app/
+
+This is a group project; this repository is a cloned version, while the original repository is kept private for security purposes.
